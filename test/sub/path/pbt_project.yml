@@ -1,0 +1,49 @@
+name: josh.mosciski
+description: Polarised
+version: 0.0.1
+author: ldybubw3.lnhwnfcy@9obuf9fi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: joshmosciski
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:18:58'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:18:58'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:18:58.140214Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1663371863'
+  createdAt: '2024-11-22T20:18:58.140214Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
